@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @angelfrg a student of informatic engineering.
+- 👀 I’m interested in making apps, games, and setting up servers... 
+- 🌱 I’m currently learning game depelovement in unity and python
